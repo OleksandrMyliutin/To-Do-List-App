@@ -31,8 +31,7 @@
 }
 
 .log-in-button{
-    margin-top: 163px;
-    margin-bottom: 20px;
+    
 
     border: none;
     border-radius: 12px;
@@ -52,6 +51,10 @@
     transition: background-color 250ms linear;
 }
 
+.log-in-button-link{
+    margin-top: 163px;
+    margin-bottom: 20px;
+}
 .log-in-button:hover{
     background-color: #f2f2f2;
 }
