@@ -31,9 +31,10 @@
 }
 
 .log-in-button{
-    margin-top: 123px;
+    margin-top: 163px;
     margin-bottom: 20px;
 
+    border: none;
     border-radius: 12px;
     width: 298px;
     height: 56px;

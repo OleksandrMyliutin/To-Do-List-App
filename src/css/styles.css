@@ -14,3 +14,6 @@
 @import url('./header.css');
 @import url('./log-in.css');
 @import url('./footer.css');
+
+/* Pages style */
+@import url('./schedule.css');
